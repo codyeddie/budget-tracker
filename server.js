@@ -22,7 +22,7 @@ mongoose.connect(MONGODB_URI|| 'mongodb://localhost:27017/budget-tracker', {
 });
 
 // routes added
-app.use(require("./routes/api"));
+app.use(require("./routes/api.js"));
 
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
