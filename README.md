@@ -7,7 +7,6 @@ This is an app that allows a user to track their budget based on transaction nam
 
 ## Table of Contents
 * [Contribution](#contribution)
-* [Video Demo](#video-demo)
 
 ## Contribution 
 I utilized my tutor and referenced previous module work and lessons to complete this assignment. 
